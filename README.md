@@ -1,0 +1,3 @@
+```
+Basic node structure template
+```
